@@ -1,5 +1,6 @@
 def instantiate_new_array
 new_array=[]
 end 
-def array_with_two_elements[elem1,elemen2]
-  
+def array_with_two_elements
+new_array=["a","b"]
+end  
